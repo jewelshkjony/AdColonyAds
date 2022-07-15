@@ -17,6 +17,7 @@ AdColony Inc. operates a mobile video advertising and monetization platform that
 Set true if you want to show loaded ad automatically after loaded.
 
 <img src="https://github.com/jewelshkjony/AdColonyAds/raw/main/images/property-1.png"/>
+
 <img src="https://github.com/jewelshkjony/AdColonyAds/raw/main/images/property-2.png"/>
 
 ## Initialize
