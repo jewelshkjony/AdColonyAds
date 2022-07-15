@@ -61,7 +61,7 @@ jewelshikderjony@gmail.com
 ````java
 +8801775668913
 ````
-Bangladeshi user can send money using bkash and Nagad. Remember my account is personal for both.
+Bangladeshi user can send money using bkash, Nagad and Rocket. Remember my account is personal for both.
 
 ## License [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
     Copyright (c) 2022 Jewel Shikder Jony
