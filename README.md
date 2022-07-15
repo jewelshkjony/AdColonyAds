@@ -42,7 +42,7 @@ Set zone id and call load rewarded ad, then when ad loaded event will be fired i
 <img src="https://github.com/jewelshkjony/AdColonyAds/raw/main/images/reward.png"/>
 
 ## Extension specifications:
-<img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.adcolonyads.aix</a> (1.61 MB) \
+<img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.adcolonyads.aix</a> (1.58 MB) \
 <b>Version:</b> 4.8.0\
 <b>Price:</b> $10.78 USD (800 Taka only for Bangladeshi)\
 <b>Last amendment:</b> 15 July 2022\
