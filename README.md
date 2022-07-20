@@ -50,10 +50,6 @@ Set zone id and call load rewarded ad, then when ad loaded event will be fired i
 
 ## 📫 How to reach me: ...
 
-<a href="https://t.me/jewelshkjony">Telegram</a> | <a href="https://wa.me/8801775668913">WhatsApp</a> | <a href="https://fb.com/jewelshkjony">Facebook</a> | <a href="https://m.me/jewelshkjony">Messenger</a>
-
-## 📫 How to reach me: ...
-
 <a href="https://t.me/jewelshkjony">Telegram</a> - <a href="https://wa.me/8801775668913">WhatsApp</a> - <a href="https://fb.com/jewelshkjony">Facebook</a> - <a href="https://m.me/jewelshkjony">Messenger</a>
 
 ## Payment Gateway
