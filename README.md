@@ -45,7 +45,6 @@ Set zone id and call load rewarded ad, then when ad loaded event will be fired i
 <img src="https://github.com/jewelshkjony/StartappAds/raw/main/images/download-icon.png"/> <a href="https://t.me/jewelshkjony">com.jewel.adcolonyads.aix</a> (668 KB) \
 <b>Version:</b> 4.8.0\
 <b>Demo Apk:</b> <a href="https://github.com/jewelshkjony/AdColonyAds/releases/download/AdColonyAds-4.8.0/AdColonyAds.apk">AdColonyAds.apk</a> \
-<b>Price:</b> $10 USD \
 <b>Last amendment:</b> 18 September 2022 \
 <b>Supported builder:</b> Kodular, Niotron, Appzard, AndroidBuilder, App Inventor and it's other distributions.
 
